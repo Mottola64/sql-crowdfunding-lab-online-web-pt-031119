@@ -18,3 +18,14 @@ INSERT INTO users (name, age) VALUES ("Jill", 23);
 INSERT INTO users (name, age) VALUES ("Alex", 25);
 INSERT INTO users (name, age) VALUES ("Pete", 43);
 INSERT INTO users (name, age) VALUES ("Jacob", 31);
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("mets", "baseball", 100, "2016-03-20", "2017-04-21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("jets", "football", 500, "2015-02-25", "2016-03-20");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("giants", "football", 1000, "2025-12-31", "2065-08-09");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("nets", "basketball", 6565, "2015-09-05", "2016-09-02");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("knicks", "basketball", 6585, "2015-02-22", "2016-11-11");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("stepdads", "squash", 7777, "2016-11-11", "2018-02-15");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("rangers", "hockey", 65656, "2015-10-10", "2019-06-01");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("arsenal", "soccer", 1235, "2015-12-12", "2019-06-04");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("ny united", "rugby", 5555, "1999-02-02", "2019-05-30");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("islanders", "hockey", 88787, "1111-11-11", "2017-06-30");
